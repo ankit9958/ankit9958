@@ -1,4 +1,3 @@
-![logo](https://github.com/ankit9958/ankit9958/blob/main/download.jpg)
 <h1 align="center">Hi 👋, I'm Ankit Kumar Singh</h1>
 <h3 align="center">Currently digging into open source</h3>
 
